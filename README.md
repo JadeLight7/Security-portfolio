@@ -21,7 +21,7 @@ I am a blockchain security researcher.
 
 
 ## Public Audit Competition
-[code4rena]([https://code4rena.com/@0xLight])
+[code4rena](https://code4rena.com/@0xLight)
 | Project             | Language  | Finding   |
 |:------------------:|:--------:|:--------:|
 | Concrete            | Solidity | 1 Medium   |

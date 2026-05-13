@@ -32,6 +32,11 @@ I am a blockchain security researcher.
 | LEND                             | Solidity | 1 High          |
 
 
+[hackenprood](https://hackenproof.com/hackers/0xLight)
+| Project                       | Language  | Finding           |
+|:-------------------------------:|:--------:|:----------------:|
+| Overlayer SC DualDefense Audit                             | Solidity | 1 Critical         |
+
 
 
  
